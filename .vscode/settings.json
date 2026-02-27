@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./AI_project/modules"
+    ],
+    "python-envs.pythonProjects": []
+}
